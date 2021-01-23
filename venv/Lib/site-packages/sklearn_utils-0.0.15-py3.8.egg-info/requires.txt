@@ -1,0 +1,7 @@
+numpy
+pyfunctional
+pandas
+scipy
+scikit-learn
+statsmodels
+seaborn
