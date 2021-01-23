@@ -6,4 +6,11 @@
 * Secondly, built the model using linear regression and created a python flask server that uses the saved model to serve http requests. 
 * Third component is the website built in HTML, CSS and JavaScript that allows user to enter home square ft area, bedrooms etc and 
   it will call python flask server to retrieve the predicted price.
+  
 
+## Code and Resources Used 
+
+**Python Version:** 3.7  
+**Packages:** pandas, numpy, sklearn, matplotlib, seaborn, flask, json, pickle  
+**For Web Framework Requirements:**  ```pip install -r requirements.txt```  
+**Dataset:** https://www.kaggle.com/amitabhajoy/bengaluru-house-price-data
