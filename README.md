@@ -53,4 +53,4 @@ The Linear Regression far outperformed the other approaches on the test and vali
 In this step, I built a flask API endpoint that was hosted on a local webserver and also built the front-end of the the website using HTML, CSS and JavaScript. The API endpoint takes in a request with a list of values (Area (Square Feet), BHK, Bath, Location) and returns an Estimated Price. 
 
 
-
+![alt text](https://github.com/RathanRaju/House_Price_Predictor/blob/master/Home_page.JPG "Client Side")
